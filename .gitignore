@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.vite/
+.claude/
+.DS_Store
+.env
+.env.local
+vite-dev.log
+vite-dev.err.log
+styles.css
+script.js
